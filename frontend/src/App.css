@@ -1,0 +1,76 @@
+.App {
+  height: 800px;
+  margin-top: 120px;
+  margin-bottom: 100px;
+  margin-right: 250px;
+  margin-left: 250px;
+  border-style: solid;
+  text-align: center;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.header {
+  font-size: 30px;
+}
+
+.content {
+  height: 290px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-style: solid;
+  text-align: center;
+}
+
+
+.title {
+  margin-top: 80px;
+  margin-bottom: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.form1 {
+  padding: 5px;
+}
+
+
+
+
+
+
+
